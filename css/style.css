@@ -1,0 +1,30 @@
+.Application{
+    height: 100px;
+    color: #000;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);  
+}
+
+.Application_2{
+    height: 100px;
+    color: #000;
+    background-image: radial-gradient(red 45%, green 40%);;  
+}
+
+h1{
+    font-size: 40px;
+    text-transform: capitalize;
+    letter-spacing: 5;
+    text-align: center;
+}
+
+
+/* .P_add{
+    height: auto;
+    color: #000;
+    background-image: linear-gradient(to right, red,orange,yellow,green,blue,indigo,violet);
+}
+.Pr_add{
+    height: auto;
+    color: #000;
+    background-image: linear-gradient(to right, red,orange,yellow,green,);
+} */
